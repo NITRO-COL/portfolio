@@ -114,7 +114,7 @@ const About = () => {
             <h2 className="text-lg font-semibold mb-4">Experience</h2>
             <div className="mb-6 last:mb-0">
               <h3 className="text-neutral-100 flex justify-between items-center mb-2">
-                <span className="font-semibold">Inturnship</span>
+                <span className="font-semibold">Internship</span>
                 <span>Sep 2024 – May 2025</span>
               </h3>
               <ul className="mt-2 space-y-2 text-neutral-100 text-sm">
