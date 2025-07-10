@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import Testvault from "../assets/Testvault.png";
 import Eva from "../assets/evacare.png";
 import hms from "../assets/hms.png";
+import alokik from "../assets/alokik.png";
 
 const Project = () => {
   return (
@@ -358,7 +359,7 @@ const Project = () => {
                 decoding="async"
                 className="rounded-xl object-contain border"
                 style={{ position: "absolute", height: "100%", width: "100%" }}
-                src={hms}
+                src={alokik}
               />
             </div>
           </div>
